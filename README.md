@@ -12,7 +12,7 @@ By running main.py, it reads the following three inputs from command line
 > number of row (hit enter to skip) : 
 > number of column (hit enter to skip) : 
 ```
-After converting the first input to binary number, it creates a text file of the pattern consisting of 0s (as white cells) and 1s (as black cells) in the directory you are currently in
+After converting the first input to a binary number, it creates a text file of the pattern consisting of 0s (as white cells) and 1s (as black cells) in the directory you are currently in
 ```
 rule_110.txt
 main.py
