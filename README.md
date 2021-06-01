@@ -3,12 +3,15 @@ A simple elementary cellular automaton generator
 
 
 This program generates patterns of elementary cellular automaton using Python
+
 elementary cellular automaton -> https://en.wikipedia.org/wiki/Elementary_cellular_automaton
+
+
 
 By running main.py, it takes the following three inputs from command line
   - a decimal number
   - the number of rows (optional, default value = 200)
-  - the length of columns (optional, default value = 400)
+  - the number of columns (optional, default value = 400)
   
 ```
 rule number (0-255) : 110
