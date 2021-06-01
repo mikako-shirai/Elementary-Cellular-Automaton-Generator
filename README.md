@@ -16,5 +16,16 @@ After converting the first input to a binary number, it creates a text file of t
 ```
 rule_110.txt
 main.py
-```
+```  
+  
+### Rule 90  
+![Rule 90](https://github.com/mikako-shirai/Elementary-Cellular-Automaton-Generator/blob/main/images/rule_90.png)  
 
+### Rule 99  
+![Rule 99](https://github.com/mikako-shirai/Elementary-Cellular-Automaton-Generator/blob/main/images/rule_99.png)  
+
+### Rule 110  
+![Rule 110](https://github.com/mikako-shirai/Elementary-Cellular-Automaton-Generator/blob/main/images/rule_110.png)  
+
+### Rule 150  
+![Rule 150](https://github.com/mikako-shirai/Elementary-Cellular-Automaton-Generator/blob/main/images/rule_150.png)  
