@@ -1,4 +1,4 @@
-# Elementary-Cellular-Automaton-Generator
+# Elementary Cellular Automaton Generator
 A simple [elementary cellular automaton](https://en.wikipedia.org/wiki/Elementary_cellular_automaton) generator  
   
 This program generates patterns of elementary cellular automaton using Python  
