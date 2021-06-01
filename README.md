@@ -2,7 +2,7 @@
 A simple [elementary cellular automaton](https://en.wikipedia.org/wiki/Elementary_cellular_automaton) generator  
   
 This program generates patterns of elementary cellular automaton using Python  
-By running main.py, it takes the following three inputs from command line
+By running main.py, it reads the following three inputs from command line
 - a decimal number
 - a number of rows in output (optional, default value = 200)
 - a number of columns in output (optional, default value = 400)
