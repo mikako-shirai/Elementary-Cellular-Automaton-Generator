@@ -4,8 +4,8 @@ A simple [elementary cellular automaton](https://en.wikipedia.org/wiki/Elementar
 This program generates patterns of elementary cellular automaton using Python  
 By running main.py, it takes the following three inputs from command line
 - a decimal number
-- the number of rows (optional, default value = 200)
-- the number of columns (optional, default value = 400)
+- a number of rows in output (optional, default value = 200)
+- a number of columns in output (optional, default value = 400)
   
 ```
 > rule number (0-255) : 110
